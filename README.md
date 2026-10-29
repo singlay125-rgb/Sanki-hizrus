@@ -1,1 +1,35 @@
 # Sanki-hizrus
+tsukuyomi-watch/
+├── index.html
+├── package.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── tailwind.config.js
+├── postcss.config.js
+└── src/
+    ├── main.tsx
+    ├── App.tsx
+    ├── index.css
+    ├── types.ts
+    ├── data/sampleData.ts
+    ├── lib/moon.ts
+    └── components/
+        ├── Sidebar.tsx
+        ├── Layout.tsx
+        ├── SakuraBackdrop.tsx
+        ├── MoonGlyph.tsx
+        ├── Card.tsx
+        ├── LoadingState.tsx
+        ├── EmptyState.tsx
+        ├── HonorScore.tsx
+        ├── MoonPhaseCard.tsx
+        ├── WeatherCards.tsx
+        ├── LocationsMap.tsx
+        ├── CelestialEvents.tsx
+        └── ImageUpload.tsx
+    └── pages/
+        ├── Watchtower.tsx
+        ├── CelestialScroll.tsx
+        ├── SpiritLens.tsx
+        └── DojoDashboard.tsx
